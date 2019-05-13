@@ -22,3 +22,10 @@ Linux: Pn + E
 - Pn + M: Red Led
 - Pn + &lt;: Green Led
 - Pn + &gt;: Blue Led
+
+## Layouts
+
+Cycle: Pn + Right Shift
+- QWERTY
+- COLEMAK
+- DVORAK
