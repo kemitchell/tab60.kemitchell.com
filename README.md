@@ -4,28 +4,28 @@
 
 To Program:
 - Hold Pn and left Alt until the light confirms.
-- Press Pn + J, K, L, or ; to program a device.
+- Press `Pn` and `J`, `K`, `L`, or `;` to program a device.
 
 To Connect:
-- Press Pn + J, K, L, or ;
+- Press `Pn` and `J`, `K`, `L`, or `;`
 
 ## Operating System Modes
 
-Windows: Pn + Q
+Windows: `Pn`and+ `Q`
 
-Mac OS: Pn + W
+Mac OS: `Pn` and `W`
 
-Linux: Pn + E
+Linux: `Pn` and `E`
 
 ## Layers
 
-- Pn + M: Red Led
-- Pn + &lt;: Green Led
-- Pn + &gt;: Blue Led
+- `Pn` and `M`: Red Led
+- `Pn` and `&lt;`: Green Led
+- `Pn` and `&gt;`: Blue Led
 
 ## Layouts
 
-Cycle: Pn + Right Shift
+Cycle: `Pn` and Right `Shift`
 - QWERTY
 - COLEMAK
 - DVORAK
