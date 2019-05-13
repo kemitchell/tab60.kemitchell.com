@@ -15,8 +15,8 @@ To Connect:
 
 ## Layers
 - `Pn` and `M`: Red Led
-- `Pn` and `&lt;`: Green Led
-- `Pn` and `&gt;`: Blue Led
+- `Pn` and `<`: Green Led
+- `Pn` and `>`: Blue Led
 
 ## Layouts
 Cycle: `Pn` and Right `Shift`
