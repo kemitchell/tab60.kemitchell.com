@@ -8,3 +8,11 @@ To Program:
 
 To Connect:
 - Press Pn + J, K, L, or ;
+
+## Operating System Modes
+
+Windows: Pn + Q
+
+Mac OS: Pn + W
+
+Linux: Pn + E
