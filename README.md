@@ -16,3 +16,9 @@ Windows: Pn + Q
 Mac OS: Pn + W
 
 Linux: Pn + E
+
+## Layers
+
+- Pn + M: Red Led
+- Pn + &lt;: Green Led
+- Pn + &gt;: Blue Led
